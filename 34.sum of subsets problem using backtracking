@@ -34,7 +34,7 @@ void printSubsetsWithSum(int target, int idx, int currentSum) {
 }
 
 int main() {
-	printf("B. MAHESH REDDY \n 192210708\n");
+    printf("R. Nithyanandhan \n 192210692\n");
     int target;
 
     // Input the number of elements in the set
