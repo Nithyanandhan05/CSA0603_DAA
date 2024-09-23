@@ -48,7 +48,7 @@ void graphColoring(int numColors) {
 
 int main() {
     int numEdges, u, v;
-    printf("B. MAHESH REDDY \n 192210708\n");
+    printf("R. Nithyanandhan \n 192210692\n");
     printf("Enter number of vertices: ");
     scanf("%d", &numVertices);
     printf("Enter number of edges: ");
